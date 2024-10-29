@@ -10,10 +10,6 @@ A powerful bot to manage giveaways, broadcast messages, and easily maintain chan
 - **`DB_NAME`**: Name of your MongoDB database.
 - **`ADMIN_IDS`**: A list of Telegram user IDs of the bot's administrators who will have access to admin-only commands.
 
-## 🔄 Optional Variables
-- **`SUPPORT_GROUP`**: Link to your support Telegram group.
-- **`UPDATES_CHANNEL`**: Link to your updates Telegram channel.
-
 ## 🌟 Features
 - **Channel Management**: 
   - Add and remove channels with simple commands. Supports both private and public channels.
